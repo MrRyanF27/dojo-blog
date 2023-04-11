@@ -1,0 +1,34 @@
+{
+  "blogs": [
+    {
+      "title": "My First Blog",
+      "body": "loreme baha ryan gwapo nakatira sa dm compound caloocan city isang matinik na malupit at astig",
+      "author": " Mr. Ryan Ferriol",
+      "id": 1
+    },
+    {
+      "title": "Opening Part",
+      "body": "loreme baha ryan gwapo nakatira sa dm compound caloocan city isang matinik na malupit at astig",
+      "author": " Mr. SWABEH",
+      "id": 2
+    },
+    {
+      "title": "useHistory",
+      "body": "Try lang ngayong umaga bago tayo mag proceed",
+      "author": "Mr. Swabeh",
+      "id": 16
+    },
+    {
+      "title": "Hello Ninjas",
+      "body": "yuhuuu gumagana din sya halakha",
+      "author": "Mr. Swabeh",
+      "id": 17
+    },
+    {
+      "title": "Shinobi",
+      "body": "May nakapag sabi nasaktan kadaw nang grabe",
+      "author": "Mr. Swabeh",
+      "id": 18
+    }
+  ]
+}
